@@ -1,3 +1,3 @@
 # waveletdenoising
 
-Small set of functions to denoise an image by applying one of the thecniques of wavelet shrinking.
+Small set of functions to denoise an image by applying one of the thecniques of wavelet shrinking (bayes shrink, visu shrink).
